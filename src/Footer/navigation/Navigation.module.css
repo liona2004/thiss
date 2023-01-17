@@ -1,0 +1,19 @@
+.navigation {
+    border: 1px solid red;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+
+.titleIcons {
+    width: 90px;
+    height: 90px;
+    background-color: #fcfcfc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

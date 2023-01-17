@@ -1,0 +1,40 @@
+.projectTwo {
+    width: 500px;
+
+    background-color: #fcfcfc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.projectVideo {
+    width: 500px;
+    height: 400px;
+    background-color: #b4b4b4;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.watchButton {
+    height: 60px;
+    width: 100px;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.projectDescription {
+    width: 500px;
+    height: 100px;
+    background-color: #d6d6d6;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.title {
+    background-color: #fcfcfc;
+}

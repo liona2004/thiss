@@ -1,0 +1,51 @@
+.contactsBlock {
+    height: 100vh;
+    background-color: #ffedea;
+}
+
+.title {
+    background-color: #fcfcfc;
+    margin-top: 100px;
+}
+
+.contactsContainer {
+    /*align-items: center;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.inputContainer {
+    flex-direction: column;
+
+}
+
+.contactMe {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.input {
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+.textArea {
+    width: 500px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.titleButton {
+    width: 100px;
+    height: 50px;
+    background-color: #fcfcfc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
